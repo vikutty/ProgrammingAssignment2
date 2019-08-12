@@ -1,5 +1,3 @@
-## Program for
-
 ## makeCacheMatrix function records and caches the inverse of the matrix provided
 ## Assumption is the matrix provided is inverse compatible
 
